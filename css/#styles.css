@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 
+.body{
+    background-color: rgb(126, 117, 128);
+}
 /* estilos de imagen*/
 bg-imagen1{
     width: 25px;
