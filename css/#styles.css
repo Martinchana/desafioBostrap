@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* estilos de imagen*/
+bg-imagen1{
+    width: 25px;
+    height: 25px;
+}
+bg-imagen2{
+    width: 25px;
+    height: 25px;
+}
+bg-imagen3{
+    width: 25px;
+    height: 25px;
+}
+/*estilos del footer*/
